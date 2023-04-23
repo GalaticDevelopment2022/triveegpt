@@ -1,8 +1,0 @@
-[2023-04-22 15:31:24] [INFO    ] discord.client: logging in using static token
-[2023-04-22 15:32:54] [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 904ba8b993dec9a9c1f1dd9a4ef54e2b).
-[2023-04-22 15:32:56] [INFO    ] discord.bot: Logged in as TriveeGTP#1603 (ID: 1099185447294488598)
-[2023-04-22 15:32:56] [INFO    ] discord.bot: ------
-[2023-04-22 15:37:51] [INFO    ] discord.gateway: Shard ID None session has been invalidated.
-[2023-04-22 15:37:57] [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 48c11d467544fd7821ae87397b81e958).
-[2023-04-22 15:37:59] [INFO    ] discord.bot: Logged in as TriveeGTP#1603 (ID: 1099185447294488598)
-[2023-04-22 15:37:59] [INFO    ] discord.bot: ------

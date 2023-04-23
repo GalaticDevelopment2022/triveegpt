@@ -1,8 +1,0 @@
-requests
-rich
-websockets
-discord.py
-python-dotenv
-httpx
-prompt-toolkit
-regex
